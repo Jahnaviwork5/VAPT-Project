@@ -1,2 +1,2 @@
 # VAPT-Project
-Vulnerability Assessment &amp; Penetration Testing Project
+Vulnerability Assessment & Penetration Testing Project
